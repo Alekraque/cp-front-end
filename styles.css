@@ -8,6 +8,7 @@ body {
 
 .container {
     text-align: center; /* Centraliza o conteúdo */
+    color: black
 }
 .texto-centralizado {
     display: inline-block; /* Faz com que a div seja tratada como um bloco e centralize seu conteúdo */
